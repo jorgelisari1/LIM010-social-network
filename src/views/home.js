@@ -1,4 +1,3 @@
-/* eslint-disable no-trailing-spaces */
 // Importamos las funciones que vamos a usar
 import { template } from '../utils.js';
 
